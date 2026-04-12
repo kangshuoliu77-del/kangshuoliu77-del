@@ -1,16 +1,21 @@
-## Hi there 👋
+# 刘康硕 | Kangshuo Liu
 
-<!--
-**kangshuoliu77-del/kangshuoliu77-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **本科生** | 北京林业大学 · 计算机科学与技术
 
-Here are some ideas to get you started:
+📍 **兴趣方向**：自动驾驶 · 控制理论 · 强化学习 · 机器人学
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **联系方式**：kangshuoliu77@gmail.com
+
+---
+
+## 📚 技术栈
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+
+*Stay curious.*
