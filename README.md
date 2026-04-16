@@ -18,7 +18,7 @@
 
 
 **已完成 ✅**
-- 🤖 Modern Robotics 第2章 构型空间 第3章 刚体运动 第9章 轨迹规划
+- 🤖 Modern Robotics 第2章 构型空间 第3章 刚体运动 第9章 轨迹规划 第10章 运动规划
 - 📐 现代控制理论基础 状态空间 稳定性 能控能观性
 - 🧠 强化学习基础 MDP 贝尔曼方程 PPO
 - 🚗 传统避障算法 APF DWA A* Pure Pursuit RRT
