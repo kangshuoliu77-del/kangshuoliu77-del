@@ -4,7 +4,7 @@
 
 📍 **研究方向** 自动驾驶 · 控制理论 · 强化学习 · 机器人学
 
-📧 **联系方式** kangshuoliu77@gmail.com
+📧 **联系方式** kangshuoliu77@gmail.com liukangshuo.lks@outlook.com
 
 🔗 **学习仓库** [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
 
@@ -21,7 +21,7 @@
 - 🤖 Modern Robotics 第2章 构型空间 第3章 刚体运动 第9章 轨迹规划
 - 📐 现代控制理论基础 状态空间 稳定性 能控能观性
 - 🧠 强化学习基础 MDP 贝尔曼方程 PPO
-- 🚗 传统避障算法 APF DWA A* Pure Pursuit
+- 🚗 传统避障算法 APF DWA A* Pure Pursuit RRT
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-*Stay curious. Build things that move.*
+*Stay curious*
