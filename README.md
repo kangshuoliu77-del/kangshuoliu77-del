@@ -4,7 +4,7 @@
 
 📍 **研究方向** 自动驾驶 · 控制理论 · 强化学习 · 机器人学
 
-📧 **联系方式** kangshuoliu77@gmail.com liukangshuo.lks@outlook.com
+📧 **联系方式** kangshuoliu77@gmail.com
 
 🔗 **学习仓库** [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
 
