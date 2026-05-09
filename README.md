@@ -2,48 +2,48 @@
 
 🎓 **本科生** | 北京林业大学 · 计算机科学与技术
 
-📍 **研究方向** 自动驾驶 · 控制理论 · 强化学习 · 机器人学
+📍 **方向** 机器人规划与控制 · 自动驾驶 · 强化学习 · 形式化方法
 
 📧 **联系方式** kangshuoliu77@gmail.com
 
-🔗 **学习仓库** [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
+🔗 **主要仓库** [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
 
 ---
 
-## 🎯 当前研究
+## 🎯 当前关注
 
-**正在进行 🔄**
-- 🤖 Modern Robotics
-- 📐 线性系统理论 LST 进阶学习
+**主线方向**
+- 机器人运动规划与控制
+- 自动泊车中的 Hybrid A* / MPC
+- 强化学习与 imitation learning 在 planning 中的应用
+- 多机器人 formation control 与 temporal logic planning
+- 凸优化、QP 与 Graphs of Convex Sets
 
-
-**已完成 ✅**
-- 🤖 Modern Robotics 第2章 构型空间 第3章 刚体运动 第9章 轨迹规划 第10章 运动规划
-- 📐 现代控制理论基础 状态空间 稳定性 能控能观性
-- 🧠 强化学习基础 MDP 贝尔曼方程 PPO
-- 🚗 传统避障算法 APF DWA A* Pure Pursuit RRT
+**近期进展**
+- 完成 A* 到 Hybrid A* 的自动泊车规划实验
+- 完成 Hybrid A* + CasADi/IPOPT MPC 的初步规划控制闭环
+- 使用 Hybrid A* 轨迹数据进行 learned heuristic 初步实验
+- 正在阅读多机器人 temporal logic / formation control 相关论文
+- 正在补充凸优化、最优控制和强化学习基础
 
 ---
 
-## 📚 技术栈
+## 📚 技术与工具
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Control Theory](https://img.shields.io/badge/Control-LQR_MPC-blue?style=for-the-badge)
-![RL](https://img.shields.io/badge/RL-PPO-red?style=for-the-badge)
+![CasADi](https://img.shields.io/badge/CasADi-Optimization-blue?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-Planning%20%26%20Control-darkgreen?style=for-the-badge)
+![RL](https://img.shields.io/badge/RL-PPO%20%7C%20IL-red?style=for-the-badge)
 
 ---
 
 ## 📂 项目仓库
 
 ### 🚗 [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
-系统记录从零学习自动驾驶 控制理论 强化学习和机器人学的全过程 包含笔记 代码 每周总结
 
-### 🔧 实验代码 进行中
-倒立摆控制实验 PID LQR MPC  A* 狭窄空间规划
+围绕机器人规划、控制、强化学习、优化方法和自动驾驶场景实验的长期记录，包含学习笔记、实验代码、论文笔记和阶段总结。
 
 ---
 
-*Stay curious*
+*Planning · Control · Robotics · Learning*
