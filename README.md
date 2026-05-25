@@ -1,4 +1,4 @@
-# 刘康硕 | Kangshuo Liu
+# Kangshuo Liu
 
 🎓 **本科生** | 北京林业大学 · 计算机科学与技术
 
