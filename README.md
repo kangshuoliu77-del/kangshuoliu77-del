@@ -1,48 +1,61 @@
----
-🎓 北京林业大学 · 计算机科学与技术
+# Kangshuo Liu
 
-📍 **方向** 机器人规划与控制 · 自动驾驶 · 强化学习 · 形式化方法
+Undergraduate student in Computer Science and Technology at Beijing Forestry
+University. My work focuses on robotics, motion planning, optimization-based
+control, and multi-robot systems.
 
-📧 **联系方式** kangshuoliu77@gmail.com
+I am particularly interested in how certified geometric reasoning, formal
+methods, and continuous control can be combined to produce reliable robotic
+planning pipelines in cluttered environments.
 
-🔗 **主要仓库** [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
+## Research Interests
 
----
+- Robotic motion planning and control
+- Autonomous driving decision-making and trajectory planning
+- Hybrid A*, MPC, optimal control, and optimization-based planning
+- Multi-robot formation control and cooperative payload transport
+- Formal methods, temporal logic planning, and discrete abstractions
+- Convex safe regions, Graphs of Convex Sets, CLF/CBF/QP-based control
+- Reinforcement learning and imitation learning for planning and control
 
-## 🎯 当前关注
+## Selected Projects
 
-**主线方向**
-- 机器人运动规划与控制
-- 自动泊车中的 Hybrid A* / MPC
-- 强化学习与 imitation learning 在 planning 中的应用
-- 多机器人 formation control 与 temporal logic planning
-- 凸优化、QP 与 Graphs of Convex Sets
+### Certified Payload Transport Pipeline
 
-**近期进展**
-- 完成 A* 到 Hybrid A* 的自动泊车规划实验
-- 完成 Hybrid A* + CasADi/IPOPT MPC 的初步规划控制闭环
-- 使用 Hybrid A* 轨迹数据进行 learned heuristic 初步实验
-- 正在阅读多机器人 temporal logic / formation control 相关论文
-- 正在补充凸优化、最优控制和强化学习基础
+[certified-payload-transport-pipeline](https://github.com/kangshuoliu77-del/certified-payload-transport-pipeline)
 
----
+A ROS 2 / RViz / Gazebo engineering pipeline for multi-UAV payload transport in
+cluttered environments. The project builds certified convex regions, checks
+formation feasibility, constructs bridge certificates between regions, and
+executes the resulting task route with a paper-style QP controller.
 
-## 📚 技术与工具
+### Autonomous Driving Learning Notes
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![CasADi](https://img.shields.io/badge/CasADi-Optimization-blue?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-Planning%20%26%20Control-darkgreen?style=for-the-badge)
-![RL](https://img.shields.io/badge/RL-PPO%20%7C%20IL-red?style=for-the-badge)
+[autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
 
----
+A long-term study repository for autonomous driving and robotics planning. It
+includes A* and Hybrid A* parking experiments, trajectory planning notes, control
+theory notes, reinforcement learning notes, and paper reading summaries.
 
-## 📂 项目仓库
+## Technical Background
 
-### 🚗 [autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
+Programming and tools:
 
-围绕机器人规划、控制、强化学习、优化方法和自动驾驶场景实验的长期记录，包含学习笔记、实验代码、论文笔记和阶段总结。
+- Python, NumPy, Matplotlib, PyTorch
+- ROS 2, RViz, Gazebo
+- CasADi, IPOPT, convex optimization tools
+- Git, Linux-based robotics development workflow
 
----
+Research foundations:
 
-*Planning · Control · Robotics · Learning*
+- Search-based planning and sampling-based planning
+- Kinematic vehicle models and trajectory optimization
+- Model predictive control and optimal control
+- Convex optimization, quadratic programming, CLF/CBF methods
+- Temporal logic, transition systems, and multi-agent coordination
+
+## Contact
+
+Email: kangshuoliu77@gmail.com
+
+GitHub: [kangshuoliu77-del](https://github.com/kangshuoliu77-del)
