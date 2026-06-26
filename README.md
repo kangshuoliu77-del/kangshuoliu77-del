@@ -2,7 +2,7 @@
 
 Undergraduate student in Computer Science and Technology at Beijing Forestry
 University. My work focuses on robotics, motion planning, optimization-based
-control, and multi-robot systems.
+control, reinforcement learning, and multi-robot systems.
 
 I am particularly interested in how certified geometric reasoning, formal
 methods, and continuous control can be combined to produce reliable robotic
@@ -16,7 +16,7 @@ planning pipelines in cluttered environments.
 - Multi-robot formation control and cooperative payload transport
 - Formal methods, temporal logic planning, and discrete abstractions
 - Convex safe regions, Graphs of Convex Sets, CLF/CBF/QP-based control
-- Reinforcement learning and imitation learning for planning and control
+- Reinforcement learning, imitation learning, and learning-based planning
 
 ## Selected Projects
 
@@ -53,6 +53,7 @@ Research foundations:
 - Model predictive control and optimal control
 - Convex optimization, quadratic programming, CLF/CBF methods
 - Temporal logic, transition systems, and multi-agent coordination
+- Reinforcement learning, imitation learning, and learned heuristics
 
 ## Contact
 
