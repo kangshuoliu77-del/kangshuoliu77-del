@@ -1,62 +1,36 @@
 # Kangshuo Liu
 
-Undergraduate student in Computer Science and Technology at Beijing Forestry
-University. My work focuses on robotics, motion planning, optimization-based
-control, reinforcement learning, and multi-robot systems.
+Undergraduate in Computer Science and Technology at Beijing Forestry University.
 
-I am particularly interested in how certified geometric reasoning, formal
-methods, and continuous control can be combined to produce reliable robotic
-planning pipelines in cluttered environments.
+I work on robotics, motion planning, optimization-based control, reinforcement
+learning, and multi-robot systems.
 
-## Research Interests
+## Research
 
-- Robotic motion planning and control
-- Autonomous driving decision-making and trajectory planning
-- Hybrid A*, MPC, optimal control, and optimization-based planning
-- Multi-robot formation control and cooperative payload transport
-- Formal methods, temporal logic planning, and discrete abstractions
-- Convex safe regions, Graphs of Convex Sets, CLF/CBF/QP-based control
-- Reinforcement learning, imitation learning, and learning-based planning
+- Motion planning and control
+- Autonomous driving planning
+- Hybrid A*, MPC, and trajectory optimization
+- Multi-robot formation and payload transport
+- Temporal logic and formal methods
+- Convex safe regions, GCS, CLF/CBF/QP
+- Reinforcement learning and imitation learning
 
-## Selected Projects
+## Projects
 
-### Certified Payload Transport Pipeline
+- [Certified Payload Transport Pipeline](https://github.com/kangshuoliu77-del/certified-payload-transport-pipeline)  
+  ROS 2 / RViz / Gazebo pipeline for certified multi-UAV payload transport.
 
-[certified-payload-transport-pipeline](https://github.com/kangshuoliu77-del/certified-payload-transport-pipeline)
+- [Autonomous Driving Learning Notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)  
+  Notes and experiments on A*, Hybrid A*, MPC, control, robotics, and RL.
 
-A ROS 2 / RViz / Gazebo engineering pipeline for multi-UAV payload transport in
-cluttered environments. The project builds certified convex regions, checks
-formation feasibility, constructs bridge certificates between regions, and
-executes the resulting task route with a paper-style QP controller.
-
-### Autonomous Driving Learning Notes
-
-[autonomous-driving-learning-notes](https://github.com/kangshuoliu77-del/autonomous-driving-learning-notes)
-
-A long-term study repository for autonomous driving and robotics planning. It
-includes A* and Hybrid A* parking experiments, trajectory planning notes, control
-theory notes, reinforcement learning notes, and paper reading summaries.
-
-## Technical Background
-
-Programming and tools:
+## Tools
 
 - Python, NumPy, Matplotlib, PyTorch
 - ROS 2, RViz, Gazebo
-- CasADi, IPOPT, convex optimization tools
-- Git, Linux-based robotics development workflow
-
-Research foundations:
-
-- Search-based planning and sampling-based planning
-- Kinematic vehicle models and trajectory optimization
-- Model predictive control and optimal control
-- Convex optimization, quadratic programming, CLF/CBF methods
-- Temporal logic, transition systems, and multi-agent coordination
-- Reinforcement learning, imitation learning, and learned heuristics
+- CasADi, IPOPT, convex optimization
+- Git, Linux
 
 ## Contact
 
-Email: kangshuoliu77@gmail.com
-
-GitHub: [kangshuoliu77-del](https://github.com/kangshuoliu77-del)
+- Email: kangshuoliu77@gmail.com
+- GitHub: [kangshuoliu77-del](https://github.com/kangshuoliu77-del)
