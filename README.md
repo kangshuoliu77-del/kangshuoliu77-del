@@ -2,18 +2,16 @@
 
 Undergraduate in Computer Science and Technology at Beijing Forestry University.
 
-I work on robotics, motion planning, optimization-based control, reinforcement
-learning, and multi-robot systems.
+I work on robotics, motion planning, reinforcement
+learning, formal methods, and multi-robot systems.
 
 ## Research
 
 - Motion planning and control
 - Autonomous driving planning
-- Hybrid A*, MPC, and trajectory optimization
-- Multi-robot formation and payload transport
+- Multi-robot systems
 - Temporal logic and formal methods
-- Convex safe regions, GCS, CLF/CBF/QP
-- Reinforcement learning and imitation learning
+- Reinforcement learning and MARL
 
 ## Projects
 
